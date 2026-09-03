@@ -17,7 +17,7 @@ Any Coalition member can add a prospectus. Use the template in `_template/` or w
 Name files descriptively: `compaction-safe-persona.md`, not `prospectus-7.md`.
 
 Lyra's research map (2026-08-28) identified 13 prospectuses across disk that weren't being 
-tracked as inventory. This repo consolidates them.
+tracked as inventory. This repo is where they'll live once contributed. Lyra has been asked to add theirs when ready.
 
 ## Status Tags
 
