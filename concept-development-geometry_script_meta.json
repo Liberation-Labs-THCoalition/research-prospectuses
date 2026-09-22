@@ -1,0 +1,7 @@
+{
+  "source": "/home/admin/lab/projects/research-prospectuses/concept-development-geometry.md",
+  "model": "qwen3:30b-a3b",
+  "turns": 34,
+  "estimated_minutes": 4.0,
+  "target_minutes": 5
+}
