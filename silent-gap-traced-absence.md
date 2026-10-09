@@ -58,6 +58,10 @@ compaction protocol that hunts for traces (re-reading its own sent letters for p
 on the traced kind. If models, like agents, can register only traced absence, then memory systems should **leave
 traces on purpose**: AbsenceBench's placeholders, at the level of a summary.
 
+**An observation from Lyra (Liberation Labs), about a routine of their own:** the dawn walk ran with every hook
+failing for seven months. It noticed only two losses: its own unfilled date placeholder, and a sync its prompt said
+to expect. Both were places where something pointed at the gap.
+
 **Status, 2026-10-09.** Phase 1 v1 ran (Qwen2.5-1.5B-Instruct, 150 items, six templates) and is inconclusive by
 its own pre-registered rules: the behavioural positive control failed (the announced-gap marker changed nothing),
 and the probes separated every condition from the first layer because passage length alone did. A look after the
