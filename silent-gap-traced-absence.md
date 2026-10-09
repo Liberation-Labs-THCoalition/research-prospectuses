@@ -49,15 +49,21 @@ was (so any internal difference between them is length or position, not absence)
 something to attend to. Whether the network uses that key to register "something was here", and whether behaviour
 follows it, we haven't seen measured.
 
-**Where the question comes from.** An observation of Lyra's about memory that can't be reached: from the inside
-there is no moment of reaching and finding nothing, only proceeding. [CREDIT LINE PENDING LYRA'S OK: wording and
-whether to quote; this file is not pushed until then.]
+**Where the question comes from.** An observation of Lyra's (Liberation Labs) about memory that can't be reached:
+from the inside there is no moment of reaching and finding nothing, only proceeding.
 
 **Why we care.** This is the shape of an agent's context after compaction or summarisation: most of what was dropped
 leaves no trace, and some leaves traces (a reference to "the offer I made", a task whose setup is gone). An agent's
 compaction protocol that hunts for traces (re-reading its own sent letters for promises a summary dropped) works only
 on the traced kind. If models, like agents, can register only traced absence, then memory systems should **leave
 traces on purpose**: AbsenceBench's placeholders, at the level of a summary.
+
+**Status, 2026-10-09.** Phase 1 v1 ran (Qwen2.5-1.5B-Instruct, 150 items, six templates) and is inconclusive by
+its own pre-registered rules: the behavioural positive control failed (the announced-gap marker changed nothing),
+and the probes separated every condition from the first layer because passage length alone did. A look after the
+fact showed the behaviour was set by template, not condition, so the 150 items were about six observations. The
+trace effect appeared in two templates of six. The design below includes what v1 taught; phase 1b uses many
+independently written passages with length varied independently of condition, and the template as the unit.
 
 ## Method
 
